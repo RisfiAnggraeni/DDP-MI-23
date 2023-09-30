@@ -12,6 +12,8 @@ int main (){
     }
     else if(f >=100 && f <=999){
         cout << "Ratusan" ;
+    }else {
+        cout << "Tidak Tahu" ;
     }
     return 0;
 }
