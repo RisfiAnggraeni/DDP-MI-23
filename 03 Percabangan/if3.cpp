@@ -4,6 +4,7 @@ using namespace std;
 int main (){
     int f ;
     cin>>f;
+    
     if(f >=0 && f <=9){
         cout << "Satuan" ;
     }
