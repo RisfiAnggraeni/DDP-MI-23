@@ -18,9 +18,8 @@ int main () {
             cout << "Nilai kamu dibawah 76 :(\n";
             break;
             
-        case 'E':
+            default:
             cout << "Nilai Invalid\n";
-            break;
             
         return 0;
     }
