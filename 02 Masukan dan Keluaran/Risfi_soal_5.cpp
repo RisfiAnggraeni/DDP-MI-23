@@ -7,19 +7,19 @@ int main (){
     getline(cin, str);
     cout<< str << endl;
     
-     string str1;
+    string str1;
     getline(cin, str);
     cout<< str << endl;
     
-     string str3;
+    string str3;
     getline(cin, str);
     cout<< str << endl;
     
-     string str4;
+    string str4;
     getline(cin, str);
     cout<< str << endl;
     
-     string str5;
+    string str5;
     getline(cin, str);
     cout<< str;
     

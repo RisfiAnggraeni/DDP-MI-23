@@ -1,5 +1,5 @@
  #include <iostream>
-using namespace std;
+ukesing namespace std;
 
 int main () {
     int nilai;
